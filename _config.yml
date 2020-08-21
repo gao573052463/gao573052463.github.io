@@ -4,7 +4,7 @@ SEOTitle: 高辉的博客 | GH Blog
 header-img: img/post-bg-desk.jpg
 email: g573052463@gmail.com
 description: "前端常用知识以及踩过的坑"
-keyword: "GH, GH Blog, 高辉的博客, 前端, Css, JQuery, Vue, Html"
+keyword: "GH, GH Blog, 高辉的博客, 前端, Css, JQuery, Vue, Html , Git"
 url: "https://gao573052463.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
